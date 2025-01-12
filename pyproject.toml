@@ -11,4 +11,5 @@ dependencies = [
     "pytest-django>=4.9.0",
     "pytest>=8.3.4",
     "pytest-playwright>=0.6.2",
+    "factory-boy>=3.3.1",
 ]
