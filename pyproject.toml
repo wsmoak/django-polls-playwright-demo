@@ -1,7 +1,7 @@
 [project]
 name = "django-polls-playwright-demo"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.1.0"
+description = "UI Testing the Django Tutorial Polls app with Python Playwright"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
