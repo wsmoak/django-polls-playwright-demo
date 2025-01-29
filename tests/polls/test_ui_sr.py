@@ -1,6 +1,5 @@
 import pytest
 from playwright.sync_api import expect
-from tests.polls.factories import QuestionFactory
 from tests.polls.pages import PollsPage
 
 @pytest.fixture()
